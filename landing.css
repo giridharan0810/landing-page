@@ -1,0 +1,89 @@
+html
+{
+    background-image: url(Place\ Your\ Image\ Here\ \(Double\ Click\ to\ Edit\)\ \(1\).png);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(118, 109, 109, 0.5); /* White background with 50% opacity */
+    background-blend-mode: lighten;
+    
+}
+.yellow
+{
+    color: rgb(255, 170, 0);
+    margin-bottom: -4%;
+}
+.head
+{
+ margin-top: 14%;
+ font-size: xx-large;
+ font-family:fantasy;
+ font-style: bold;
+ letter-spacing: 15px;
+ margin-left: 90px;
+}
+h5{
+    color: rgb(255, 170, 0) ;
+    margin-left: 90px;
+    margin-bottom: -10px;
+    font-size: large;
+
+}
+p
+{
+    margin-left: 90px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+a
+{
+    text-decoration: none;
+    color: rgb(50, 48, 48);
+    word-spacing: 10%;
+
+}
+.nav
+{
+    margin-left: 60%;
+    
+    letter-spacing: 2px;
+    font-size: large;
+    margin-top: 45px;
+
+}
+
+    .button {
+        background-color: rgb(255, 170, 0);
+        border: none;
+        color: rgb(50, 48, 48);
+        padding: 10px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 12px;
+        cursor: pointer;
+        border-radius: 40px;
+        margin-left: 135px;
+        margin-top: 10px;
+      }
+.web
+{
+    color: rgb(50, 48, 48) ;
+}
+img
+{
+    width: 25px;
+    margin-left: 15px;
+    display: inline-block;
+}
+.face
+{
+    margin-left: 130px;
+}
+hr{
+    width: 50%;
+    margin-left: 46%;
+    border: none;
+    border-top: 3px solid white ;
+   margin-top: -20px;
+    
+} 
